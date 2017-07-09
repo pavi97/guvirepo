@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 import java.lang.*;
-class vowel
+class AlphabetorNot
 {
   public static void main(String args[]) throws java.lang.Exception
   {
